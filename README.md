@@ -26,7 +26,7 @@
 9. Скачайте по ссылке данные из CRM и Справочник:
 
 
-https://docs.google.com/spreadsheets/d/1vev2uOhVs4PS7vMxLRWi9DocrlWGSj8I/edit#gid=56 7428211
+https://docs.google.com/spreadsheets/d/1vev2uOhVs4PS7vMxLRWi9DocrlWGSj8I/edit#gid=567428211
 
 
 
